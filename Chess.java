@@ -1,1 +1,5 @@
-public class chess 
+public class Chess
+{
+	
+}
+
