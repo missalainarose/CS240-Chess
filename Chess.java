@@ -1,5 +1,6 @@
-public class Chess
+public class ChessBoard
 {
+	public static final int
 	
 }
 
